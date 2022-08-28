@@ -1,2 +1,2 @@
 # FlskWithDataBase
- Simple Concept to start with Flask Frmework with Python
+ Simple Concept to start with Flask Framework with Python
